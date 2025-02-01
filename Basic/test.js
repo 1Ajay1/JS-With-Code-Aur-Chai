@@ -1,0 +1,1 @@
+console.log("Best of luck, dear Ajay! Wishing you all the best as you start learning your JavaScript course!")
